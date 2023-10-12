@@ -41,7 +41,7 @@ public class Barang {
     }
 
     void setHarga(double harga) {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+
     }
 } 
 
